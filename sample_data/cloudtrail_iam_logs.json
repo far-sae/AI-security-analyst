@@ -1,0 +1,18 @@
+[
+    {
+      "timestamp": "2025-11-15T18:00:32Z",
+      "user": "temporary-admin",
+      "action": "CreateUser",
+      "resource": "New-Backdoor-User",
+      "message": "IAM CreateUser API call executed outside normal patterns"
+    },
+    {
+      "timestamp": "2025-11-15T18:02:12Z",
+      "user": "temporary-admin",
+      "action": "AttachUserPolicy",
+      "resource": "New-Backdoor-User",
+      "policy": "AdministratorAccess",
+      "message": "Privilege escalation detected: Full admin access granted"
+    }
+  ]
+  

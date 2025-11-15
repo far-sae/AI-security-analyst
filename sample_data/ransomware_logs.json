@@ -1,0 +1,19 @@
+[
+    {
+      "timestamp": "2025-11-16T14:02:13Z",
+      "user": "workstation-12",
+      "file": "C:/Users/Public/Documents/finance_report.xlsx",
+      "action": "renamed",
+      "new_name": "finance_report.xlsx.locked",
+      "message": "Potential ransomware encryption detected"
+    },
+    {
+      "timestamp": "2025-11-16T14:02:15Z",
+      "user": "workstation-12",
+      "file": "C:/Users/Public/Documents/invoices.docx",
+      "action": "renamed",
+      "new_name": "invoices.docx.locked",
+      "message": "Mass file modification activity detected"
+    }
+  ]
+  

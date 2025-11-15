@@ -1,0 +1,17 @@
+[
+    {
+      "timestamp": "2025-11-16T07:13:01Z",
+      "src_ip": "154.12.55.19",
+      "username": "employee1",
+      "result": "FAILED",
+      "message": "VPN login failed from unusual country"
+    },
+    {
+      "timestamp": "2025-11-16T07:13:45Z",
+      "src_ip": "154.12.55.19",
+      "username": "employee1",
+      "result": "FAILED",
+      "message": "Repeated VPN authentication failures detected"
+    }
+  ]
+  

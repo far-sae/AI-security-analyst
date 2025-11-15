@@ -1,0 +1,17 @@
+[
+    {
+      "timestamp": "2025-11-15T14:09:22Z",
+      "src_ip": "10.0.0.22",
+      "dst_ip": "209.141.36.25",
+      "bytes_sent": 320,
+      "message": "Regular outbound connection to known C2 IP"
+    },
+    {
+      "timestamp": "2025-11-15T14:14:22Z",
+      "src_ip": "10.0.0.22",
+      "dst_ip": "209.141.36.25",
+      "bytes_sent": 280,
+      "message": "Repeated outbound traffic pattern consistent with malware beaconing"
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+[
+    {
+      "timestamp": "2025-11-16T17:44:22Z",
+      "src_ip": "203.0.113.90",
+      "endpoint": "/api/v1/user/profile",
+      "payload": "{{7*7}}",
+      "message": "Suspicious SSTI payload detected – possible zero-day exploitation attempt"
+    },
+    {
+      "timestamp": "2025-11-16T17:45:02Z",
+      "src_ip": "203.0.113.90",
+      "endpoint": "/upload",
+      "payload": "<?php system($_GET['cmd']); ?>",
+      "message": "Remote code execution attempt detected"
+    }
+  ]
+  

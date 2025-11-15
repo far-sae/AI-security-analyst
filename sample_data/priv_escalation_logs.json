@@ -1,0 +1,13 @@
+[
+    {
+      "timestamp": "2025-11-15T09:12:05Z",
+      "user": "mark",
+      "message": "sudo: mark : user NOT in sudoers ; TTY=pts/1 ; PWD=/home/mark ; USER=root ; COMMAND=/bin/cat /etc/shadow"
+    },
+    {
+      "timestamp": "2025-11-15T09:13:10Z",
+      "user": "mark",
+      "message": "sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1001 euid=0 tty=/dev/pts/1 ruser=mark rhost=  user=mark"
+    }
+  ]
+  

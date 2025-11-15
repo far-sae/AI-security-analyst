@@ -1,0 +1,17 @@
+[
+    {
+      "timestamp": "2025-11-16T11:10:32Z",
+      "from": "it-support@micros0ft-secure.com",
+      "to": "employee@company.com",
+      "subject": "URGENT: Reset Your Password Immediately",
+      "message": "Suspicious domain mismatch detected in sender email header"
+    },
+    {
+      "timestamp": "2025-11-16T11:11:20Z",
+      "from": "hr@company-secure.net",
+      "to": "employee@company.com",
+      "subject": "Updated Benefits Document",
+      "message": "Attachment contains macro-enabled file"
+    }
+  ]
+  

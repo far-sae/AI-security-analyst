@@ -1,0 +1,24 @@
+[
+    {
+      "timestamp": "2025-11-16T09:00:12Z",
+      "src_ip": "45.133.29.82",
+      "dst_ip": "10.0.0.5",
+      "bytes_sent": 120,
+      "message": "High rate of inbound SYN packets detected"
+    },
+    {
+      "timestamp": "2025-11-16T09:00:13Z",
+      "src_ip": "78.141.221.44",
+      "dst_ip": "10.0.0.5",
+      "bytes_sent": 120,
+      "message": "Suspicious TCP connection attempts exceeding threshold"
+    },
+    {
+      "timestamp": "2025-11-16T09:00:14Z",
+      "src_ip": "113.22.91.100",
+      "dst_ip": "10.0.0.5",
+      "bytes_sent": 99,
+      "message": "Spike in inbound traffic consistent with DDoS attack"
+    }
+  ]
+  

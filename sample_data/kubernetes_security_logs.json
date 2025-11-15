@@ -1,0 +1,18 @@
+[
+    {
+      "timestamp": "2025-11-16T13:10:00Z",
+      "pod": "nginx-5d9d7c4b6b-x78df",
+      "namespace": "default",
+      "event": "exec",
+      "user": "system:anonymous",
+      "message": "Unauthorized exec attempt into pod container"
+    },
+    {
+      "timestamp": "2025-11-16T13:12:44Z",
+      "pod": "redis-master-0",
+      "namespace": "prod",
+      "event": "port-scan",
+      "message": "Suspicious internal port scanning activity detected"
+    }
+  ]
+  

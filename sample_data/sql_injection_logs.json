@@ -1,0 +1,20 @@
+[
+    {
+      "timestamp": "2025-11-15T16:22:10Z",
+      "src_ip": "198.51.100.23",
+      "endpoint": "/login",
+      "method": "POST",
+      "status": 400,
+      "payload": "' OR 1=1 --",
+      "message": "Suspicious SQL injection attempt detected"
+    },
+    {
+      "timestamp": "2025-11-15T16:23:10Z",
+      "src_ip": "198.51.100.23",
+      "endpoint": "/products?id=1 OR 1=1",
+      "method": "GET",
+      "status": 403,
+      "message": "Blocked malicious SQL payload"
+    }
+  ]
+  

@@ -1,0 +1,16 @@
+[
+    {
+      "timestamp": "2025-11-16T12:00:22Z",
+      "event_id": 4740,
+      "user": "john.doe",
+      "message": "A user account was locked out"
+    },
+    {
+      "timestamp": "2025-11-16T12:05:01Z",
+      "event_id": 4728,
+      "group": "Domain Admins",
+      "added_user": "temp-user1",
+      "message": "A user was added to a privileged security group"
+    }
+  ]
+  
